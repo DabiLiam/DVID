@@ -1,3 +1,3 @@
 Um site de modelo para um TCC futuro
 
-![2](https://user-images.githubusercontent.com/130109019/230528252-a55f3e10-e2f1-4500-9d72-3c98fb5fde14.png)
+![logo](https://user-images.githubusercontent.com/130109019/230528372-20b6d8cc-21ab-412b-9d4c-4335d42d30bf.png)
