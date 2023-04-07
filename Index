@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Cs.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!--Header desing-->
+    <header class="#">
+        <img src="img/logo.png">
+        <ul class="navlist">
+            <li><a href="#home" class="active">Home</a></li>
+            <li><a href="#about">Sobre Nós</a></li>
+            <li><a href="#services">Serviços</a></li>
+            <li><a href="#portfolio">Dicas</a></li>
+            <li><a href="#contact">Contato</a></li>
+        </ul>
+
+        <div class="bx bx-menu" id="menu-icon">
+
+        </div>
+    </header>
+
+    <!--Home section design-->
+    <section class="home" id="home">
+        <div class="home-text">
+            <div class="slide">
+                <span class="one">Olá</span>
+                <sapn class="two">Nós</sapn>
+            </div>
+            <h1>Somos </h1>
+            <h3>DVID<pan></pan></h3>
+            <p>As pequenas ações ajudam a mudar o mundo.<br>Cuide e proteja o nome meio ambiente.<br>
+            </p>
+            <div class="button">
+                <a href="https://www.brasilbiofuels.com.br/noticias/" class="btn">Noticias BBF</a>
+                <a href="https://youtu.be/27ZTolZLDfA" class="btn2"><span><i class='bx bx-play'></i></span>Documentarios</a>
+            </div>
+        </div>
+    </section>
+
+    <!--About Section design-->
+    <section class="about" id="about">
+        <div class="about-img">
+            <img src="img/bio.png">
+        </div>
+
+        <div class="about-text">
+            <h2>Sobre <span>Nós</span></h2>
+            <h4>Distribuindo Vida e Diversidade</h4>
+            <p>Check out 10 best design's updates for the top web design &
+            development companies for your needs by reviewing our list & development
+            companies! Find the best web design. Wb design consilting.
+            Comprehensive directory. Top reviewd desgn firms. Types: Enterprise Design firms, Startup design firms, custom design firms, eCommerce
+            design firms, app design firms.</p>
+        </div>
+    </section>
+
+    <!--service section design-->
+    <section class="services" id="services">
+        <div class="main-text1">
+            <p>O que nós fazemos ?</p>
+            <h2><span>Nossos </span>Serviços</h2>
+        </div>
+
+        <div class="services-content">
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bxs-dog bx-spin' ></i>
+                </div>
+                <h3>Nossos Negócios</h3>
+                <p>Atuar na preservação ambiental da Amazônia, gerar energia 
+                <br>elétrica limpa, produzir insumos renováveis para substituir 
+                <br>petroquímicos e desenvolver novos biocombustíveis é a nossa.
+                </p>
+            </div>
+
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bxs-florist bx-tada bx-rotate-90' ></i>
+                </div>
+                <h3>Recuperação de Áreas degradadas</h3>
+                <p>Nosso cultivo sustentável da palma de óleo é realizado de acordo com 
+                a legislação ambiental vigente e respeita o Zoneamento Agroecológico 
+                recuperando áreas degradadas.</p>
+            </div>
+
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bxs-leaf bx-burst' ></i>                
+                </div>
+                <h3>Modelo de Negócio Verticalizado</h3>
+                <p>Atuamos em todas as etapas do processo produtivo: 
+                cultivo sustentável da palma de óleo, produção de biocombustíveis, 
+                biotecnologia e geração de energia elétrica renovável.</p>
+            </div>
+
+            <div class="box">
+                <div class="s-icons">
+                    <i class='bx bxs-tree-alt bx-flip-horizontal bx-flashing' ></i>
+                </div>
+                <h3>Compromisso Com a Amazônia</h3>
+                <p>Nosso cultivo sustentável da palma de óleo contribui para
+                <br>o equilibrio da floresta, captura de carbono, recomposição
+                <br>da cobertura do solo e dos ciclos biogeoquimico e hidrológico.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!--Portifolio Section design-->
+    <section class="portfolio" id="portfolio">
+        <div class="main-text">
+            <p>Como ajudar o Ambiente ?</p>
+            <h2>Algumas <span>Dicas</span></h2>
+        </div>
+
+        <div class="portfolio-content">
+            <div class="row">
+                <img src="img/dica1.jpg">
+                <div class="layer">
+                    <h5>Plante em Casa</h5>
+                    <p>Ter plantas dentro de casa ajuda a deixar o ambiente mais bonito e agradável. O que nem todos sabem é que a presença delas pode trazer benefícios adicionais, como purificar o ar.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/dica2.jpg">
+                <div class="layer">
+                    <h5>Leia Livros do meio ambiente</h5>
+                    <p>Leia para as crianças livros sobre a importância da natureza</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/dica3.jpg">
+                <div class="layer">
+                    <h5>Plantar e cultivar</h5>
+                    <p>Cultivar os seus próprios temperos em vasos ou canteiros é uma boa ideia para quem quer incrementar seus pratos com ingredientes frescos e livres de agrotóxicos.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/dica4.png">
+                <div class="layer">
+                    <h5>Economize</h5>
+                    <p>Economizar energia e água, afinal, um banho mais curto ou tirar da tomada alguns eletrônicos.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/dica5.jpg">
+                <div class="layer">
+                    <h5>Descarte correto do lixo</h5>
+                    <p>O lixo que geramos está entre os fatores que mais contribuem para a poluição  e destruição do planeta.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <img src="img/dica6.jpg">
+                <div class="layer">
+                    <h5>Proteja a fauna</h5>
+                    <p>Cada animal possui uma função específica dentro de um ecossistema. Por isso, toda e qualquer medida para protegê-los é fundamental para preservar o meio ambiente.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Contact Section design-->
+    <section class="contact" id="contact">
+        <div class="contact-text">
+            <h2>Contate-<span>Nos</span></h2>
+            <h4>Se Tiver alguma duvida, pergunte ela aqui</h4>
+            <p>Informe seu nome, email e número de contato.<br>
+            E nos diga se você tambem quer fazer parte disso.</p>
+            <div class="list">
+                <li><a href="#">012345678910</a></li>
+                <li><a href="#">Hello@gmail.com</a></li>
+                <li><a href="#">Like Share & Subscribe</a></li>
+            </div>
+
+            <div class="contact-icons">
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-twitter'></i></a>
+                <a href="https://www.instagram.com/kafirfugging/?igshid=ZDdkNTZiNTM%3D"><i class='bx bxl-instagram'></i></a>
+            </div>
+        </div>
+
+        <div class="contact-form">
+            <form action="">
+                <input type="name" placeholder="Seu Nome" required>
+                <input type="email" placeholder="Seu Endereço de Email" required>
+                <input type="" placeholder="Seu Número de Telefone" required>
+                <textarea name="" id="" cols="35" rows="10" placeholder="Como podemos Ajudar você ?" required></textarea>
+                <input type="submit" value="Enviar Mensagem" class="submit" required>
+            </form>
+        </div>
+    </section>
+
+    <!--End section design-->
+    <section class="end">
+        <div class="last-text">
+            <p> Site Feito por: Davi Franco </p>
+            <p></p>
+        </div>
+
+        <div class="top">
+            <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+        </div>
+    </section>
+
+    <!--Custom js link-->
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
